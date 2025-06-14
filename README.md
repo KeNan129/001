@@ -1,1 +1,1 @@
-# 001
+print("hello wrod")
